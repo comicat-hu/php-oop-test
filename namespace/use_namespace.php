@@ -5,7 +5,7 @@
  *
  * @category None
  * @package  None
- * @author   comi.hu <comi.hu@104.com.tw>
+ * @author   comi.hu
  * @license  PHP License
  * @link     None
  */
